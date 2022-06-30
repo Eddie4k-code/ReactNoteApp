@@ -5,7 +5,5 @@ Simple note application with user authentication made with React, node, mongoose
 
 <h1>Users can</h1>
 <tr>
-<th>
-t
-</th
+f
 </tr>

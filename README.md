@@ -4,6 +4,8 @@ Simple note application with user authentication made with React, node, mongoose
 
 
 <h1>Users can</h1>
-<tr>
-f
-</tr>
+<li>
+  <ul>Register and Login</ul>
+  <ul>Create Notes, which are saved to the database</ul>
+  <ul>Delete Notes</ul>  
+</li>

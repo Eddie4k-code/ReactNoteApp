@@ -11,6 +11,14 @@ Simple note application with user authentication made with React, node, mongoose
 </ul>
 
 
+<h1> Run the Frontend </h1>
+cd 'FilePath/ReactNoteApp/Frontend'
+- npm start
+
+<h1> Run the Backend </h1>
+cd 'FilePath/ReactNoteApp/Backend'
+- npm start
+
 
 
 ![image](https://user-images.githubusercontent.com/98666468/176958391-3c0a9344-88b7-4f60-bead-396c5dd46d5b.png)

@@ -29,6 +29,7 @@ function App() {
 
                     <Route path="/auth" element={<Auth />} />
                     <Route path="/dashboard" element={<Dashboard />} />
+                    <Route path="/" element={<Auth />} />
                 </Routes>
             </BrowserRouter>
 

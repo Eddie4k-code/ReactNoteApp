@@ -102,7 +102,7 @@ function Auth() {
                 <label className="login-label"> {isSignup ? "Signup" : "Login"} </label>
   
                 {isSignup && <input name="name" onChange={handleChange} placeholder="name" className="text-field" type="text" />}
-                <input name="email" onChange={handleChange} placeholder="name" className="text-field" type="email" />
+                <input name="email" onChange={handleChange} placeholder="email" className="text-field" type="email" />
                 <input name="password" onChange={handleChange} placeholder="password" className="text-field" type="password" />
 
                 

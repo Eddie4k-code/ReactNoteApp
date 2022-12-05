@@ -103,7 +103,7 @@ function Auth() {
   
                 {isSignup && <input name="name" onChange={handleChange} placeholder="name" className="text-field" type="text" />}
                 <input name="email" onChange={handleChange} placeholder="name" className="text-field" type="email" />
-                <input name="password" onChange={handleChange} placeholder="name" className="text-field" type="password" />
+                <input name="password" onChange={handleChange} placeholder="password" className="text-field" type="password" />
 
                 
 

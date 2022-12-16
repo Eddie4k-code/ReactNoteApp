@@ -12,11 +12,11 @@ Simple note application with user authentication made with React, node, mongoose
 
 
 <h1> Run the Frontend </h1>
-cd 'FilePath/ReactNoteApp/Frontend' </br>
+cd to frontend </br>
 - npm start
 
 <h1> Run the Backend </h1>
-cd 'FilePath/ReactNoteApp/Backend' </br>
+cd to backend </br>
 - npm start
 
 <h1>Screenshots</h1>
